@@ -1,4 +1,3 @@
-// NavBar.js
 import React from 'react';
 import { IoNotificationsOutline } from "react-icons/io5";
 import img4 from '../../assets/ass.jpg'
