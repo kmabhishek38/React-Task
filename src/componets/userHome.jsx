@@ -4,7 +4,7 @@ import Navbar from './helper/navBar'
 import Uploader from './helper/upLoad'
 
 function userHome() {
-  const [navtilte,setNavtitle]=useState('dashboard')
+  const [navtilte,setNavtitle]=useState('Dashboard')
   const onNavItemClicked=(val)=>{
     setNavtitle(val)
   }
